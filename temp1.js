@@ -9,6 +9,12 @@
 // --a
 // console.log(a) 
 
-let age=21
-let msg = (age>=18)?"Access griented":"Access Denied"
-console.log(msg)
+// let age=21
+// let msg = (age>=18)?"Access griented":"Access Denied"
+// console.log(msg)
+
+// let marks = 78
+// let grade = (marks >=90)?"A":(marks >=75)?"B":(marks >=60)?"c":"Fail"
+// console.log(grade)
+
+
