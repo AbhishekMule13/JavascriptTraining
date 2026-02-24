@@ -9,3 +9,6 @@
 // --a
 // console.log(a) 
 
+let age=21
+let msg = (age>=18)?"Access griented":"Access Denied"
+console.log(msg)
